@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/3pl-frontend/static/css/main.5ee3f738.chunk.css",
-    "main.js": "/3pl-frontend/static/js/main.bf34e8f6.chunk.js",
-    "main.js.map": "/3pl-frontend/static/js/main.bf34e8f6.chunk.js.map",
+    "main.js": "/3pl-frontend/static/js/main.82ca16df.chunk.js",
+    "main.js.map": "/3pl-frontend/static/js/main.82ca16df.chunk.js.map",
     "runtime-main.js": "/3pl-frontend/static/js/runtime-main.e4ebd1cb.js",
     "runtime-main.js.map": "/3pl-frontend/static/js/runtime-main.e4ebd1cb.js.map",
     "static/css/2.d0176e96.chunk.css": "/3pl-frontend/static/css/2.d0176e96.chunk.css",
@@ -13,14 +13,14 @@
     "static/js/4.d53586fc.chunk.js": "/3pl-frontend/static/js/4.d53586fc.chunk.js",
     "static/js/4.d53586fc.chunk.js.map": "/3pl-frontend/static/js/4.d53586fc.chunk.js.map",
     "index.html": "/3pl-frontend/index.html",
-    "precache-manifest.a685eba2c4aa82b4a9c6f534c1e04150.js": "/3pl-frontend/precache-manifest.a685eba2c4aa82b4a9c6f534c1e04150.js",
+    "precache-manifest.d9618b9f2fad4d69c3fce548d58164a0.js": "/3pl-frontend/precache-manifest.d9618b9f2fad4d69c3fce548d58164a0.js",
     "service-worker.js": "/3pl-frontend/service-worker.js",
     "static/css/2.d0176e96.chunk.css.map": "/3pl-frontend/static/css/2.d0176e96.chunk.css.map",
     "static/css/main.5ee3f738.chunk.css.map": "/3pl-frontend/static/css/main.5ee3f738.chunk.css.map",
     "static/js/2.6e03d365.chunk.js.LICENSE.txt": "/3pl-frontend/static/js/2.6e03d365.chunk.js.LICENSE.txt",
     "static/js/3.0fef68eb.chunk.js.LICENSE.txt": "/3pl-frontend/static/js/3.0fef68eb.chunk.js.LICENSE.txt",
     "static/js/4.d53586fc.chunk.js.LICENSE.txt": "/3pl-frontend/static/js/4.d53586fc.chunk.js.LICENSE.txt",
-    "static/js/main.bf34e8f6.chunk.js.LICENSE.txt": "/3pl-frontend/static/js/main.bf34e8f6.chunk.js.LICENSE.txt",
+    "static/js/main.82ca16df.chunk.js.LICENSE.txt": "/3pl-frontend/static/js/main.82ca16df.chunk.js.LICENSE.txt",
     "static/media/A9.jpg": "/3pl-frontend/static/media/A9.5f4908f6.jpg",
     "static/media/M10.jpg": "/3pl-frontend/static/media/M10.30185acb.jpg",
     "static/media/avatar.jpg": "/3pl-frontend/static/media/avatar.7f61a625.jpg",
@@ -41,6 +41,6 @@
     "static/css/2.d0176e96.chunk.css",
     "static/js/2.6e03d365.chunk.js",
     "static/css/main.5ee3f738.chunk.css",
-    "static/js/main.bf34e8f6.chunk.js"
+    "static/js/main.82ca16df.chunk.js"
   ]
 }
