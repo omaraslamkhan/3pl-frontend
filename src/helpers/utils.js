@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://portal.3plvalley.com/api/";
+const BASE_URL = "https://3plv3.vercel.app/";
 // Credentials
 
 // admin@3pl.com
