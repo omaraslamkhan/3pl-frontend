@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e6c33eca60b8d288fdfed601ae4e915",
+    "revision": "bd465d5d1f28a9996993817c8ff0d400",
     "url": "/3pl-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/3pl-frontend/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "22b1c9cb483bf4f2b08b",
+    "revision": "0d69c3c9e26ed675e1ad",
     "url": "/3pl-frontend/static/css/main.5ee3f738.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/3pl-frontend/static/js/4.d53586fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22b1c9cb483bf4f2b08b",
-    "url": "/3pl-frontend/static/js/main.a2eae5d5.chunk.js"
+    "revision": "0d69c3c9e26ed675e1ad",
+    "url": "/3pl-frontend/static/js/main.cf55eac0.chunk.js"
   },
   {
     "revision": "feefcfa96284021451ec7e71a9f83892",
-    "url": "/3pl-frontend/static/js/main.a2eae5d5.chunk.js.LICENSE.txt"
+    "url": "/3pl-frontend/static/js/main.cf55eac0.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e70aa3fc70b9ef839ae9",
